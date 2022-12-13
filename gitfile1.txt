@@ -1,2 +1,3 @@
 This is acada learning
 We want to perform a merge
+Git is great!!!
