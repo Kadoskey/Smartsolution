@@ -1,1 +1,2 @@
 Git is a great tool in devops
+we are hands on in devops trainning
